@@ -1,0 +1,43 @@
+Found eas-cli in your project dependencies.
+It's recommended to use the "cli.version" field in eas.json to enforce the eas-cli version for your project.
+Learn more: https://github.com/expo/eas-cli#enforcing-eas-cli-version-for-your-project
+
+Resolved "production" environment for the build. Learn more: https://docs.expo.dev/eas/environment-variables/#setting-the-environment-for-your-builds
+No environment variables with visibility "Plain text" and "Sensitive" found for the "production" environment on EAS.
+
+
+
+✔ Using remote iOS credentials (Expo server)
+
+Distribution Certificate is not validated for non-interactive builds.
+Skipping Provisioning Profile validation on Apple Servers because we aren't authenticated.
+
+Project Credentials Configuration
+
+Project                   @hiro1117/tako-jump
+Bundle Identifier         com.takojump.app
+                          
+App Store Configuration   
+                          
+Distribution Certificate  
+Serial Number             668E301C4AF0AC5C54643EDDC166249
+Expiration Date           Sun, 14 Feb 2027 17:28:48 GMT+0900
+Apple Team                6FBKDMQ8KD 
+Updated                   4 days ago
+                          
+Provisioning Profile      
+Developer Portal ID       L3HNHQ7ZWW
+Status                    active
+Expiration                Sun, 14 Feb 2027 17:28:48 GMT+0900
+Apple Team                6FBKDMQ8KD 
+Updated                   4 days ago
+                          
+All credentials are ready to build @hiro1117/tako-jump (com.takojump.app)
+
+
+Compressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
+⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files⠏ Compressing project files⠋ Compressing project files⠙ Compressing project files⠹ Compressing project files⠸ Compressing project files⠼ Compressing project files⠴ Compressing project files⠦ Compressing project files⠧ Compressing project files⠇ Compressing project files✖ Compressing project files
+Failed to upload the project tarball to EAS Build
+
+Reason: git status -s -uall exited with signal: SIGBUS
+    Error: build command failed.

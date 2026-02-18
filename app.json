@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Tako Jump",
+    "slug": "tako-jump",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D2A5A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.takojump.app",
+      "buildNumber": "4",
+      "requireFullScreen": true,
+      "appleTeamId": "6FBKDMQ8KD",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2D2A5A"
+      },
+      "package": "com.takojump.app"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ee11c3b5-fd3c-45a7-81fd-1e596f9057f7"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 18.0.0",
+    "appVersionSource": "local"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "ascApiKeyIssuerId": "331e4385-2d0b-464b-9f45-f1099b14e901",
+        "ascApiKeyId": "FK96RGN34D",
+        "ascApiKeyPath": "./keys/AuthKey_FK96RGN34D.p8"
+      }
+    }
+  }
+}
