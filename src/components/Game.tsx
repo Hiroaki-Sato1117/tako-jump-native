@@ -610,13 +610,15 @@ export function Game() {
         </Svg>
       </Pressable>
 
-      {/* モバイルコントロール */}
-      <MobileControls
-        onDirectionChange={handleDirectionChange}
-        onJumpStart={handleJumpStart}
-        onJumpEnd={handleJumpEnd}
-        isCharging={state.tako.chargeStartTime !== null}
-      />
+      {/* モバイルコントロール（プレイ中のみ表示） */}
+      {state.screen === 'playing' && (
+        <MobileControls
+          onDirectionChange={handleDirectionChange}
+          onJumpStart={handleJumpStart}
+          onJumpEnd={handleJumpEnd}
+          isCharging={state.tako.chargeStartTime !== null}
+        />
+      )}
 
       {/* 開発者モード：ステージ選択パネル */}
       {showDevPanel && (

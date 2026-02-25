@@ -15,7 +15,7 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.takojump.app",
-      "buildNumber": "4",
+      "buildNumber": "5",
       "requireFullScreen": true,
       "appleTeamId": "6FBKDMQ8KD",
       "infoPlist": {
